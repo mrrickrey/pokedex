@@ -12,6 +12,7 @@
 		5B1DE7321E0D706B00248663 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B1DE7301E0D706B00248663 /* Main.storyboard */; };
 		5B1DE7341E0D706B00248663 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B1DE7331E0D706B00248663 /* Assets.xcassets */; };
 		5B1DE7371E0D706B00248663 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B1DE7351E0D706B00248663 /* LaunchScreen.storyboard */; };
+		5B8B650D1E0D726D005F8FD0 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 5B8B650C1E0D726D005F8FD0 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5B1DE7331E0D706B00248663 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B1DE7361E0D706B00248663 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B1DE7381E0D706B00248663 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B8B650C1E0D726D005F8FD0 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				5B1DE72E1E0D706B00248663 /* ViewController.swift */,
 				5B1DE7301E0D706B00248663 /* Main.storyboard */,
 				5B1DE7331E0D706B00248663 /* Assets.xcassets */,
+				5B8B650C1E0D726D005F8FD0 /* pokemon.csv */,
 				5B1DE7351E0D706B00248663 /* LaunchScreen.storyboard */,
 				5B1DE7381E0D706B00248663 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				5B1DE7371E0D706B00248663 /* LaunchScreen.storyboard in Resources */,
 				5B1DE7341E0D706B00248663 /* Assets.xcassets in Resources */,
+				5B8B650D1E0D726D005F8FD0 /* pokemon.csv in Resources */,
 				5B1DE7321E0D706B00248663 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				5B1DE73D1E0D706B00248663 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
